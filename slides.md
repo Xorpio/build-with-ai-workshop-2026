@@ -343,7 +343,7 @@ status: in-progress
 
 # Resources
 
-- [Slides – Copilots & Creators](https://xorpio.github.io/build-with-ai-workshop-2026/) – deze presentatie
+- **Slides:** https://xorpio.github.io/build-with-ai-workshop-2026/
 - [Slidev](https://sli.dev) – presentatie framework
 - [GitHub Copilot docs](https://docs.github.com/copilot)
 - [Anthropic Prompt Engineering Guide](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
