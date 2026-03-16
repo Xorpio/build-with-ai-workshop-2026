@@ -343,7 +343,8 @@ status: in-progress
 
 # Resources
 
-- [Slidev](https://sli.dev) – deze presentatie
+- [Slides – Copilots & Creators](https://xorpio.github.io/build-with-ai-workshop-2026/) – deze presentatie
+- [Slidev](https://sli.dev) – presentatie framework
 - [GitHub Copilot docs](https://docs.github.com/copilot)
 - [Anthropic Prompt Engineering Guide](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
 - [OWASP AI Security](https://owaspai.org/)
@@ -351,11 +352,6 @@ status: in-progress
 <br>
 
 **Vragen?**
-
-<!--
-TODO: een gedeelde link naar deze slide aanmaken en communiceren naar de deelnemers.
-Bijv. via Netlify, Vercel, of een interne SharePoint/Teams-post.
--->
 
 ---
 layout: end
